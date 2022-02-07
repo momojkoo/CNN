@@ -44,3 +44,4 @@ model.predict(X_test[:4])
 #actual results for first 4 images in test set
 y_test[:4]
 
+#
